@@ -4,7 +4,10 @@
 </p>
 
 ## What Im Working on right now!
+<p align="center"
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LilKurisuu&repo=BLACKOUT&theme=dark)](https://github.com/LilKurisuu/BLACKOUT)
-
+</p>
 ## My Most Used Languages!
+<p align="center"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilKurisuu&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
