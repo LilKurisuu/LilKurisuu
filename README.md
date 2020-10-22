@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-My name is Kris, and here is more info about me!
-
-- 🔭 I’m currently working on Powercord Themes!
-- 🌱 I’m currently learning CSS
-
-
+## My Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilKurisuu&show_icons=true&theme=dark" alt="LilKurisuu's Language Usages">
 
 
